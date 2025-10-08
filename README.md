@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ramon+Rocha!;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Olá%C3%A1%2C+eu+sou+o+Ramon+Rocha!;" alt="Typing Animation">
 </p>
 
-## Tech:
+## Techs:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
