@@ -39,7 +39,8 @@
   <!-- GitHub Streak (Se for usar, descomentar e garantir que a URL está correta) -->
   <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramonrr123&theme=monokai&hide_border=false" alt="Ramonrr123's Streak Stats" /> -->
 </div>
-![snake gif](https://raw.githubusercontent.com/Ramonrr123/Ramonrr123/output/github-contribution-grid-snake.svg?palette=github-dark)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Ramonrr123&icon=0&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://raw.githubusercontent.com/Ramonrr123/Ramonrr123/output/github-contribution-grid-snake.svg?palette=github-dark)
