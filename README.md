@@ -24,7 +24,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramonrr123&theme=holi&hide_border=false&include_all_commits=false&count_private=false" alt="Ramonrr123's GitHub Stats" style="margin-right: 15px;" />
     </td>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrr123&theme=corujanoturna&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ramonrr123's Top Languages" style="margin-right: 15px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrr123&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ramonrr123's Top Languages" style="margin-right: 15px;" />
     </td>
   </tr>
 </table>
