@@ -1,3 +1,8 @@
+![snake gif](https://github.com/Ramonrr123/Ramonrr123/blob/output/github-contribution-grid-snake.svg)
+
+![Readme](https://github-readme-stats.vercel.app/api/pin?username=Ramonrr123_username&repo=Ramonrr123_username&theme=react)([https://github.com/your_username/your_username](https://github.com/Ramonrr123/Ramonrr123))
+
+
 <h4 align="center">Olá!!<br><br>Obrigado pela visita e aproveite!</h4>
 
 ###
