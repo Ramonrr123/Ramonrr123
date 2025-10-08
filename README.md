@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=Olá%C3%A1%2C+eu+sou+o+Ramon+Rocha!;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8A2BE2&center=true&vCenter=true&width=435&lines=OOl%C3%A1%2C+eu+sou+o+Ramon+Rocha!;" alt="Typing Animation">
 </p>
 
 ## Techs:
