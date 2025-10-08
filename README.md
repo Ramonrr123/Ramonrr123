@@ -6,10 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=RAMON+ROCHA+DEV;Sou+Desenvolvedor+Fullstack;" alt="Typing Animation">
-</p>
-<p align="center">
-  java • kotlin • go
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Hello Word,+Ramon Rocha;" alt="Typing Animation">
 </p>
 
 ## 💻 Tech Stack:
@@ -17,7 +14,6 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ramonrr123&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ramonrr123&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramonrr123&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
