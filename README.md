@@ -1,13 +1,13 @@
 ![snake gif](https://raw.githubusercontent.com/Ramonrr123/Ramonrr123/output/github-contribution-grid-snake.svg?palette=github-dark)
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Hello+Word,+Ramon+Rocha;" alt="Typing Animation">
 </p>
 <p align="center">
   java • kotlin • go
 </p>
 
-## 💻 Tech Stack:
+## Tech:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -21,8 +21,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
 
 <div align="center">
 <table>
