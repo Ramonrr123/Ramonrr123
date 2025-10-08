@@ -1,10 +1,7 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Hello+Word,+Ramon+Rocha;" alt="Typing Animation">
-</p>
-<p align="center">
-  java • kotlin • go
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FF69B4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ramon+Rocha!;" alt="Typing Animation">
 </p>
 
 ## Tech:
