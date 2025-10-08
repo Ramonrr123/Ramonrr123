@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Ramonrr123/Ramonrr123/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Ramonrr123/Ramonrr123/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 
 
