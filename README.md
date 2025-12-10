@@ -31,4 +31,4 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Ramonrr123&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://raw.githubusercontent.com/Ramonrr123/Ramonrr123/output/github-contribution-grid-snake.svg?palette=github-dark)
+
